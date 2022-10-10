@@ -82,7 +82,7 @@ curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/rep
 
 chmod a+x ~/bin/repo
 
-git clone https://github.com/HeRulez/scripts
+git clone https://github.com/ghost-707/scripts
 
 cd scripts
 
@@ -114,7 +114,7 @@ mkdir Lineage
 git config --global user.name "FIRST_NAME LAST_NAME" git config --global user.email "YOUR EMAIL"
 
 # Go to ROM folder.
-cd lineage
+cd Lineage
 
 # Now we need to initialize LineageOS Source
 # For that, go the LineageOS git and find the manifest (https://github.com/LineageOS/android this may vary from ROM to ROM)
